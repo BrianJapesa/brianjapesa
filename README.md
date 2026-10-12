@@ -28,7 +28,7 @@ When I'm not working with data, I enjoy reading self-development books, playing 
 - **Project B:** [AI Mushroom Yield and Disease Predictor Using Python and Machine Learning]
 - **project C:** [SQL Real Project]
 
-## 🌱 Currently Learning & Growing
+## 🌱 Learning & Development
 
 - [Advanced machine learning techniques in Scikit-learn and Advanced SQL]
 - [Cloud data warehousing with Google BigQuery.]
